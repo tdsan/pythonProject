@@ -3,5 +3,6 @@ variable "info" {
   default = {
     location  = "eastus"
     name      = "it-rg"
+    type      = "B1ms"
   }
 }
