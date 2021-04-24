@@ -29,7 +29,6 @@ variable "vm" {
 # Create admin password for vm
 variable "admin_password" {
 	type = string
-	default = "Bellas101"
 	description = "Enter Admin password for VM"
 }
 
